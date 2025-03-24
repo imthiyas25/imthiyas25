@@ -39,6 +39,9 @@ Love my work? **Buy me a coffee!** Your support helps me continue building aweso
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=flat-square&logo=buymeacoffee)](https://buymeacoffee.com/imthiyas25)
 
+<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" height="60">
+</a>
 
 ## 🔥 Open Source Contributions  
 
