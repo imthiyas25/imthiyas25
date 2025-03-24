@@ -6,7 +6,7 @@
 🎓 **B.Tech in Information Technology (2025) | CGPA: 8.26**  
 📍 **Tindivanam, Tamil Nadu**  
 
-🔍 **Research:** Medicinal Plant Identification Using Vision Transformers & Deepfake Detection  
+🔍 **Research:** Enhaced Medicinal Plant Identification and Classification Using Vision Transformers Model  
 
 ---
 
@@ -33,14 +33,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
+## ☕ Support Me  
 
-## 📈 GitHub Stats  
+Love my work? **Buy me a coffee!** Your support helps me continue building awesome projects. 💖  
 
-![Imthiyas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=imthiyas25&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imthiyas25&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imthiyas25&theme=radical)  
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=flat-square&logo=buymeacoffee)](https://buymeacoffee.com/imthiyas25)
 
----
 
 ## 🔥 Open Source Contributions  
 
@@ -55,7 +53,7 @@ Check out my projects & contributions:
 
 ## 💻 Projects  
 
-### 🔹 **[FakeShield: Deepfake Detection](https://github.com/imthiyas25/Machine-Learning-Based-Deepfake-Detection-for-Enhanced-Media-Integrity-and-Authentication)**  
+### 🔹 **[FakeShield: Machine-Learning-Based-Deepfake-Detection-for-Enhanced-Media-Integrity-and-Authentication ](https://github.com/imthiyas25/Machine-Learning-Based-Deepfake-Detection-for-Enhanced-Media-Integrity-and-Authentication)**  
 🔹 **Tech Stack:** CNN, RNN, Deep Learning Models, OpenCV  
 🔹 **Description:** Built a machine learning-powered application to detect deepfake media, ensuring digital content authenticity.  
 
