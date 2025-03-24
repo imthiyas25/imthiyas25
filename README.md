@@ -4,7 +4,7 @@
 
 💡 Passionate about **Cybersecurity, Machine Learning, Full-Stack Development, and Open Source**  
 🎓 **B.Tech in Information Technology (2025) | CGPA: 8.26**  
-📍 **Tindivanam, Tamil Nadu**  
+📍 **Tamil Nadu,India**  
 
 🔍 **Research:** Enhaced Medicinal Plant Identification and Classification Using Vision Transformers Model  
 
