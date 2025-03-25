@@ -116,7 +116,3 @@ Check out my projects & contributions:
 ## ⭐ Show Your Support  
 
 If you find my work useful, **give it a star ⭐** and let's collaborate on amazing projects! 🚀  
-
----
-
-🔥 **This README makes your profile more professional, structured, and engaging!** Want any more tweaks? 😊🚀
