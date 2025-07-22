@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Imthiyas!  
 
-🚀 **Software Developer | Cybersecurity Enthusiast | Open-Source Contributor**  
+🚀 **AI Engineer | Cybersecurity Enthusiast | Open-Source Contributor**  
 
 💡 Passionate about **Cybersecurity, Machine Learning, Full-Stack Development, and Open Source**  
 🎓 **B.Tech in Information Technology (2025) | CGPA: 8.26**  
